@@ -23,8 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![flyig](http://m.kino-teatr.ru/art/3708/45565.jpg)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -37,3 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![ponk](DSC_0673.NEF)
+![flyig](https://i.ytimg.com/vi/JouulNKOKwE/maxresdefault.jpg)
